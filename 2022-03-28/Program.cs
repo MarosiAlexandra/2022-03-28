@@ -10,6 +10,7 @@ namespace _2022_03_28
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
